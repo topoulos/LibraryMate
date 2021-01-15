@@ -1,0 +1,22 @@
+{
+  "npmScope": "library-mate.api",
+  "affected": {
+    "defaultBase": "master"
+  },
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tslint.json": "*",
+    ".eslintrc.json": "*",
+    "nx.json": "*",
+    "tsconfig.base.json": "*"
+  },
+  "projects": {
+    "LibraryMate.Api": {
+      "tags": []
+    },
+    "LibraryMate.Api-e2e-e2e": {
+      "tags": []
+    }
+  }
+}
